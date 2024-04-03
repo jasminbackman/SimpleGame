@@ -1,2 +1,6 @@
-﻿  TheGame.cpp
-  MyFirstGame.vcxproj -> C:\Users\Jammi\source\repos\MyFirstGame\Debug\MyFirstGame.exe
+﻿  Enemy.cpp
+  Player.cpp
+  TheGame.cpp
+  Unit.cpp
+  Generating Code...
+  MyFirstGame.vcxproj -> C:\Users\Jammi\source\repos\SimpleGame\Debug\MyFirstGame.exe
